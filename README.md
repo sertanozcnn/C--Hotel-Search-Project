@@ -8,6 +8,8 @@
 -After you register, you can find the hotel you want in the most convenient way.
 
 -You have to click on it and click on the Printer Button and download the PDF.
+
+
 ![](İmages/image.png)
 
 ![](İmages/image1.png)
