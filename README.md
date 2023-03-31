@@ -9,7 +9,7 @@
 ![](İmages/image3.png)
 
 
-![](İmages/image4.png)
+![](İmages/image4ek.png)
 
 ![](İmages/image5.png)
 
